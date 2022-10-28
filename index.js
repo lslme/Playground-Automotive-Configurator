@@ -1,6 +1,6 @@
 // Import stylesheets
 import './style.css';
-// test LME
+
 // Write Javascript code!
 const appName = 'Playground Automotive v0'; // Put application name here
 const server = 'https://wr-lumis3d.lumiscaphe.com'; // Put server URL here
