@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  font-size: 0.75rem;
+  margin: 0;
+  padding: 0;
+}
+
+#appViewer {
+  max-width: 400px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+#generatedUrl {
+  max-width: 100%;
+  overflow-x: scroll;
+  white-space: nowrap;
+}
+
+.form-label {
+  font-weight: bold;
+}
